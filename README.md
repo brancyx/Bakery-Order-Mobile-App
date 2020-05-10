@@ -1,6 +1,6 @@
 # Simple Bakery Order App
 
-Simple Flutter application that allows users to register, login, add items to a shopping cart and view order history. Users will be able to logout and Data is stored in Firebase Cloud Store.
+Simple Flutter application that allows users to register, login, add items to a shopping cart and view order history. Users will be able to logout and update name in settings from Home Page. Data is stored in Firebase Cloud Store.
 
 
 
